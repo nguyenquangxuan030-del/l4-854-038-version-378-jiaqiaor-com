@@ -1,0 +1,13 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_file_count": 2000,
+  "html_file_count": 2015,
+  "category_file_count": 8,
+  "category_assigned_movie_count": 2000,
+  "category_assignment_matches": true,
+  "detail_pages_with_player": 2000,
+  "missing_baidu_html_pages": [],
+  "sample_missing_links": [],
+  "logo_name": "日韩精选电影",
+  "zip_path": "/mnt/data/rihan_movie_static_site.zip"
+}
